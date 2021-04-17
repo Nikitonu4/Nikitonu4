@@ -1,7 +1,6 @@
-### Hi there 👋
+<img align='right' src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitonu4&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)">
 
-<!--
-**Nikitonu4/Nikitonu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
