@@ -1,9 +1,9 @@
 <a href="https://github.com/Nikitonu4">
-  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitonu4&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitonu4&theme=great-gatsby" />
 </a>
 
 [![VK Badge](https://img.shields.io/badge/VK-Profile-informational?style=flat&logo=vk&logoColor=white&color=1CA2F1)](https://vk.com/nikitonu4pu)
-### Hi theree 👋
+### Hi there 👋
 
 Here are some ideas to get you started:
 
