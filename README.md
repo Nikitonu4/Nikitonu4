@@ -3,7 +3,9 @@
 </a>
 
 [![VK Badge](https://img.shields.io/badge/VK-Profile-informational?style=flat&logo=vk&logoColor=white&color=1CA2F1)](https://vk.com/nikitonu4pu)
-### Hi theree 👋
+[![instagram Badge](https://img.shields.io/badge/instagram-Profile-yellow?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nikitonu4)
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
