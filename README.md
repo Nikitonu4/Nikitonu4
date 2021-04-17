@@ -10,4 +10,4 @@
 
 #### Junior Frontend-developer
 - ⚡ Junior Frontend-developer
-- 🎓 Bachelor of Computer Science
+- 🎓 Bachelor degree of Computer Science
