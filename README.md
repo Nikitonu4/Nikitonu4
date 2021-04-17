@@ -1,4 +1,4 @@
-<img align='right' src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitonu4](https://github.com/anuraghazra/github-readme-stats)">
+<img align='right' src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitonu4)]">
 
 ### Hi there 👋
 
