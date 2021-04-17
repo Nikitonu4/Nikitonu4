@@ -6,7 +6,8 @@
 [![VK Badge](https://img.shields.io/badge/VK-Profile-informational?style=flat&logo=vk&logoColor=white&color=1CA2F1)](https://vk.com/nikitonu4pu)
 [![instagram Badge](https://img.shields.io/badge/instagram-Profile-yellow?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nikitonu4)
 
-### Hi theere 👋
+## Hi theere 👋
 
-## Junior Frontend-developer
--->
+#### Junior Frontend-developer
+- ⚡ Junior Frontend-developer
+- 🎓 Bachelor of Computer Science
