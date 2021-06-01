@@ -1,5 +1,5 @@
 <a href="https://github.com/Nikitonu4">
-  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitonu4&theme=buefy" />
+  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitonu4&theme=buefy" />
 </a>
 
 [![Visits Badge](https://badges.pufler.dev/visits/Nikitonu4/Nikitonu4)](https:Nikitonu4.dev)
