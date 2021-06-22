@@ -8,6 +8,3 @@
 
 ## Hi there 👋
 
-#### Junior Frontend-developer
-- ⚡ Junior Frontend-developer
-- 🎓 Bachelor degree of Computer Science
