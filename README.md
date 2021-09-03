@@ -7,4 +7,4 @@
 [![instagram Badge](https://img.shields.io/badge/instagram-Profile-yellow?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nikitonu4)
 
 ## Hi there 👋
-### Visit my site ⛩ -> nikitonu4cv.web.app
+### Visit my site ⛩ -> <a href="https://nikitonu4cv.web.app">nikitonu4cv.web.app</a>
