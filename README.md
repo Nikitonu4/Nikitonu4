@@ -15,7 +15,7 @@
     Welcome to Nikita Batogov's profile!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <img src="https://readme-typing-svg.herokuapp.com?color=F73D89&center=true&lines=Full-stack+web+developer;Trying+to+make+the+world+a+better">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F73D89&center=true&lines=Full-stack+web+developer;Trying+to+make+the+world+better">
 </div>
 
 ### 👨‍💻 About Me :
