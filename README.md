@@ -24,7 +24,7 @@ I am a Full Stack Developer from Russia.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg
+
 ### Frontend
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
