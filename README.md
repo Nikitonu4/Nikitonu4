@@ -15,7 +15,7 @@
     Welcome to Nikita Batogov's profile!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <img src="https://readme-typing-svg.herokuapp.com?color=F73D89&center=true&lines=Full-stack+web+developer;Trying+to+make+the+world+better">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F73D89&center=true&lines=Full-stack+web+developer;>
 </div>
 
 ### 👨‍💻 About Me :
@@ -45,6 +45,7 @@ I am a Full Stack Developer from Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="nestjs" alt="nestjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="sequelize" alt="sequelize" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="redis" alt="redis" width="40" height="40"/>&nbsp;
 </div>
 
  
