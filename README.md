@@ -35,6 +35,7 @@ Technical skills:
 **Utils/libs**: ESLint, Prettier, Swagger, JSDoc, moment.js, Winston, Husky,  
 Jaeger, Jest, docxtemplater(работа с шаблонами для генерации), chart.js,  
 Passport.js
+
 ---
 
 
