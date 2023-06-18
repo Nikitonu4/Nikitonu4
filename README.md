@@ -23,11 +23,17 @@ I am a Full Stack Developer from Russia.
 
 ---
 Technical skills:
+
 **Programming languages**: JavaScript, TypeScript
+
 **Backend**: Node.js, NestJS, Express.js, RabbitMQ, PostgreSQL (Sequelize ORM и чистые запросы), Redis, Keycloak
+
 **Frontend**: Vue 2/3, Vuex, Pinia, Vuetify, Tailwind, Quasar, Vite/Webpack, Storybook, SCSS/SASS
+
 **Infrastructure**: Docker, Git, Loki, Kibana, Sentry, владение Linux
-**Utils/libs**: ESLint, Prettier, Swagger, JSDoc, moment.js, Winston, Husky, Jaeger, Jest, docxtemplater(работа с шаблонами для генерации), chart.js,  
+
+**Utils/libs**: ESLint, Prettier, Swagger, JSDoc, moment.js, Winston, Husky,  
+Jaeger, Jest, docxtemplater(работа с шаблонами для генерации), chart.js,  
 Passport.js
 ---
 
