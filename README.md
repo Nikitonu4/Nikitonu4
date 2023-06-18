@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/batogovnikita/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://vk.com/nikitonu4pu">
+    <a href="https://vk.com/batogovnikita">
       <img src="https://img.shields.io/badge/VKONTAKTE-white?style=for-the-badge&logo=vk&logoColor=blue" alt="Youtube Badge"/>
     </a>
   </div>
