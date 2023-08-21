@@ -8,6 +8,7 @@
 
 ### 👨‍💻 About Me :
 I have 4 years of experience in IT(2 years of commercial experience).
+
 Communication are central in my work ethic. I enjoy working closely with with people of different roles and work on the same product, to transform business requirements into user-friendly applications.
 
 - I possess a broad understanding of business objectives and strive to delve into the essence of the given tasks rather than simply writing code
